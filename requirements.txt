@@ -1,0 +1,5 @@
+instagrapi==1.17.6
+schedule
+cryptography
+pillow
+urllib3<2
