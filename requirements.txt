@@ -3,3 +3,4 @@ schedule
 cryptography
 pillow
 urllib3<2
+mysql-connector-python
